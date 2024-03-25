@@ -88,4 +88,7 @@ body {
 .pesquisa input[type=submit]:hover{
     opacity: 0.7;
 }
+.pesquisa input[type=text]:focus {
+    outline: none;
+}
 
